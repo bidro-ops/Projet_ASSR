@@ -1,6 +1,10 @@
 # Projet_ASSR
 Mini projet de fin de module administration systemes et securité reseau sur l'outil shellGPT réalisé par Badr-eddine EL AFI, Youness ANGAR, Mohammed RATIB, et Samir Essounaini. Ce projet est encadré par MME SOUKAINA MIHI.  
 
+Vous trouvez içi le lien de la présentation sous format du vidéo : 
+
+https://drive.google.com/drive/folders/1PaitMcfrHB2MwBXnr_eIpy5RHsrcQik_?usp=drive_link 
+
 Quelques videos de demonstration : 
 
 vid1: 
